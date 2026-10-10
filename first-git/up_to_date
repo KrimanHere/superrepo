@@ -1,0 +1,6 @@
+git add .
+git commit -m "Write messaage"
+git branch ---> branch names
+git checkout {branch_name} ---> switch branches
+git pull ---> pull info from github
+git push ---> publish to github
